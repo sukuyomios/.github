@@ -1,5 +1,6 @@
 ## Sukuyomi OS/Avatar OS
-Avatar Os, MoonUI is underdevelopment,Desktop Environment specially developing for developing for netbsd os
+Avatar Os, MoonUI is in the works. It's a desktop environment designed especially for NetBSD OS.
+
 <!--
 
 **Here are some ideas to get you started:**
